@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import RulesAlgebra
 
 main :: IO ()
-main = someFunc
+main = print person
